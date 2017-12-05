@@ -1,14 +1,27 @@
+/*CSS for*/
 .video {
 	margin-bottom: 50px;
 	float:left;
 	width: 33%
 }
 
+/* CSS for paragraph*/
 .video p {
 	padding: 10px;
 	background-color: #EFEFEF;
 }
-
+/* Controls the percentage width from the */
 .video img {
 	width: 100%;
+
+}
+
+p.description {
+	background-color: #AABBCC;
+	padding: 10px;
+	border: 5px solid #000000;
+}
+
+.clr {
+	clear:both;
 }
