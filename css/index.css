@@ -18,7 +18,9 @@ li {
 }	
 
 
-/* NOTE: li .finished > IS VERY DIFFERENT */
+/* NOTE: li.finished > Searches for li 's WITH finished
+		 finished li > Searched for finished WITH li
+*/
 li.finished {
 	font-weight: bold;
 	color: green;

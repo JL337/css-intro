@@ -1,0 +1,14 @@
+.video {
+	margin-bottom: 50px;
+	float:left;
+	width: 33%
+}
+
+.video p {
+	padding: 10px;
+	background-color: #EFEFEF;
+}
+
+.video img {
+	width: 100%;
+}
